@@ -1,0 +1,119 @@
+{
+  "topy": {
+    "title": "Tops",
+    "products": {
+      "01": {
+        "name": "White T-shirt with print",
+        "url": "top1.png",
+        "price": 100,
+        "currency": "USD",
+        "description": "White T-shirt with a modern print.",
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"]
+      },
+      "02": {
+        "name": "WHITE BLOUSE",
+        "url": "top2.png",
+        "price": 110,
+        "currency": "USD",
+        "description": "White elegant blouse with ruffled sleeves.",
+        "sizes": ["XS", "S", "M", "L"]
+      },
+      "03": {
+        "name": "BEIGE BASIC T-SHIRT",
+        "url": "top3.png",
+        "price": 90,
+        "currency": "USD",
+        "description": "Basic cotton T-shirt in beige color.",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    }
+  },
+
+  "dziny": {
+    "title": "Jeans",
+    "products": {
+      "04": {
+        "name": "MOM CUT JEANS",
+        "url": "jeans1.png",
+        "price": 200,
+        "currency": "USD",
+        "description": "Loose mom jeans with a used look.",
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "05": {
+        "name": "HIGH WAISTED JEANS",
+        "url": "jeans2.png",
+        "price": 220,
+        "currency": "USD",
+        "description": "Jeans with a modern high waist.",
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"]
+      },
+      "06": {
+        "name": "STRAIGHT HIGH RISE JEANS",
+        "url": "jeans3.png",
+        "price": 250,
+        "currency": "USD",
+        "description": "Comfortable straight cut.Wide and longer trousers hemming",
+        "sizes": ["XS", "S", "M", "L", "XL"]
+      }
+    }
+  },
+  "saty": {
+    "title": "Clothes",
+    "products": {
+      "07": {
+        "name": "DRESS WITH BALLOON SLEEVES",
+        "url": "dress1.png",
+        "price": 250,
+        "currency": "USD",
+        "description": "Airy dress with frill hem and structured fabric.",
+        "sizes": ["S", "M", "L", "XL"]
+      },
+      "08": {
+        "name": "SUMMER DRESS",
+        "url": "dress2.png",
+        "price": 230,
+        "currency": "USD",
+        "description": "Light and airy summer dress for hot days.",
+        "sizes": ["S", "M", "L", "XL", "2XL"]
+      },
+      "09": {
+        "name": "MAXI DRESS",
+        "url": "dress3.png",
+        "price": 200,
+        "currency": "USD",
+        "description": "Long and comfortable maxi dress.",
+        "sizes": ["XS", "S", "M", "L"]
+      }
+    }
+  },
+  "bundy": {
+    "title": "JACKETS",
+    "products": {
+      "10": {
+        "name": "JACKET WITH HOOD",
+        "url": "jacket1.png",
+        "price": 350,
+        "currency": "USD",
+        "description": "A warm hooded jacket for the winter months.",
+        "sizes": ["S", "M", "L", "XL", "2XL", "3XL"]
+      },
+      "11": {
+        "name": "KHAKI LIGHT JACKET",
+        "url": "jacket2.png",
+        "price": 300,
+        "currency": "USD",
+        "description": "Autumn jacket.Regular fit,long sleeve",
+        "sizes": ["S", "M", "L", "XL", "2XL", "3XL"]
+      },
+      "12": {
+        "name": "JEANS JACKET",
+        "url": "jacket3.png",
+        "price": 320,
+        "currency": "USD",
+        "description": "The light blue jacket has two chest pockets that have a button flap.",
+        "sizes": ["S", "M", "L", "XL", "2XL", "3XL"]
+      }
+    }
+  }
+}
