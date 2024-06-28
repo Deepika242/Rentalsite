@@ -1,0 +1,49 @@
+.order-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #CFC4C4;
+  padding: 60px;
+  color: var(--text);
+}
+
+.order-number h2 {
+  text-align: center;
+  font-size: var(--title-size);
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  color: var(--background-color);
+}
+
+.order-items-detail ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.order-items-detail li {
+  margin-bottom: 30px;
+}
+
+.order-items-detail a {
+  text-decoration: none;
+  color: #555;
+}
+
+.order-items-detail svg {
+  color: var(--background-color);
+  margin-right: 10px;
+}
+
+.item-name {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.item-size,
+.item-quantity {
+  font-size: 16px;
+  text-align: left;
+  padding-left: 26px;
+}

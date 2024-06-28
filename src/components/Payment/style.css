@@ -1,0 +1,60 @@
+.payment-section {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: var(--background-color);
+  padding: 60px;
+  color: var(--text);
+  border-radius: 10px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: var(--title-size);
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+
+.payment-text,
+.payment-details {
+  padding-bottom: 40px;
+}
+
+
+.payment-text {
+  font-size: 18px;
+  color: #555;
+  max-width: 45vw;
+}
+
+.payment-text a {
+  text-decoration: none;
+  font-weight: bold;
+  color: var(---text);
+  cursor: pointer;
+}
+
+.qr-code {
+  margin-bottom: 60px;
+}
+
+
+/* Responsive Design */
+/* Phone */
+
+@media (max-width: 460px) {
+  .payment-text {
+    font-size: 17px;
+    max-width: 60vw;
+  }
+
+  .payment-details {
+    font-size: 15px;
+  }
+
+  .qr-code {
+    width: 50vw;
+  }
+}
